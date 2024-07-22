@@ -1,0 +1,17 @@
+1)Which company is making the highest profit - Black Cab or Red Cab?
+
+2)Which company is performing well over a period, regardless of which year it is?
+
+3)Find the top 10 customers in terms of Income and identify the highest profitable customer.
+
+4)Which gender (male or female) records the greater number of travels?
+
+5)Which income group has a greater number of travellers? Make this analysis dynamic by adding slicers.
+
+6)Did people prefer to pay by cash or card in Red Cab company in the year 2018?
+
+7)Which age group has less willingness to travel on cabs?
+
+8)Which gender, age group, and income group people travel more in the cab?
+
+9)Create a profitability dashboard across the demographics.
