@@ -1,5 +1,4 @@
 # Black Cap and Red Cap
-
 								 		DASHBOARD												
 																						
 																						
@@ -49,7 +48,9 @@
 																						
 																						
 																						
-![image](https://github.com/user-attachments/assets/3957d69e-d5b3-42eb-a735-561b18aa177d)
+
+![image](https://github.com/user-attachments/assets/c20d7ab5-bc61-48b6-ad33-b47462b09aae)
+
 
 																							
 																							
