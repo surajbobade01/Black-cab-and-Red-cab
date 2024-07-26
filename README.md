@@ -1,6 +1,56 @@
-# Black-cap-and-Red-cap
+# Black Cap and Red Cap
 
-DASHBOARD
+								 		DASHBOARD												
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+![image](https://github.com/user-attachments/assets/3957d69e-d5b3-42eb-a735-561b18aa177d)
+
 																							
 																							
 																							
